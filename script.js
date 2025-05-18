@@ -62,3 +62,4 @@ for(let obj of resume){
 
 // FOR EACH 
 resume.forEach((ele)=>console.log(ele.Skills.Tools));
+
